@@ -45,7 +45,7 @@
 1. Right click `[New GPO name]` > `Edit...`
 1. Right click `[Domain Name]` > `Link an Existing GPO...`
   a. Select `[New GPO name]` > `OK`
-1. In `Scope` tab, inside of `Links` section, right click `[Domain Name]` > make sure `Enforced` is checked
+1. Right click `[New GPO name]` > `GPO Status` > `Enabled`
 
 ### Update Group Policy Settings
 1. From Client PC, open command prompt

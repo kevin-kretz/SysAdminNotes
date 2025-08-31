@@ -12,9 +12,9 @@
 1. Install Windows Server
 1. Rename PC
 1. Change network adapter properties
-   a. Set static IPv4
-   b. Default Gateway and DNS server point to DC01 IP (Leave Backup DNS empty)
-   c. Disable IPv6
+   1. Set static IPv4
+   1. Default Gateway and DNS server point to DC01 IP (Leave Backup DNS empty)
+   1. Disable IPv6
 1. Join the domain
 1. Install "Active Directory Domain Services"
 1. Promoting to domain controller select Add to existing domain.
